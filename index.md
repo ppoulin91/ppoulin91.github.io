@@ -3,6 +3,11 @@
 ### Bio
 
 I'm a PhD student working on solutions for WM tractography based on diffusion MRI using deep learning.
+I study at the [Université de Sherbrooke](https://www.usherbrooke.ca/) in Sherbrooke, Canada.
+
+I am part of two labs: 
+- [Sherbrooke Connectivity Imaging Lab (**SCIL**)](http://scil.dinf.usherbrooke.ca) 
+- [Videos and Images Theory and Analytics Laboratory (**VITAL**)](http://vital.dinf.usherbrooke.ca/).
 
 ### Publications
 
